@@ -1,9 +1,5 @@
 # Valorant Injector Cheat menu by bytebunch
 
-## How to use
-
-Just start the game and then launch the Injector.exe as administrator, click Inject and you should be able to open the menu by pressing F9 ingame.
-
 ![Preview 1](https://raw.githubusercontent.com/byte0bunch/Valorant-Injector/main/preview%203.PNG)
 
 ![Preview 2](https://raw.githubusercontent.com/byte0bunch/Valorant-Injector/main/preview.PNG)
@@ -26,10 +22,10 @@ The Colorbox Wallhack allows you to see through walls and obstacles by displayin
 
 ## Usage
 
-1. Download the software from our website.
-2. Launch the software and open Valorant.
-3. Activate the desired cheat features.
-4. Enjoy the competitive advantage our software provides.
+1. Download the software from this repo.
+2. Launch Injector.exe after the game.
+3. Press Inject while in the main menu and press F9, the menu should appear in game.
+4. Enjoy.
 
 **Note**: The use of cheat software is against Valorant's terms of service and may result in penalties, including permanent game bans. Use this software at your own risk.
 
