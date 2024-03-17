@@ -6,11 +6,9 @@ Just start the game and then launch the Injector.exe as administrator, click Inj
 
 ![Preview 1](https://raw.githubusercontent.com/byte0bunch/Valorant-Injector/main/preview%203.PNG)
 
-![Logo GitHub](preview.png)
-![alt text](http://url/to/img.png)
+![Preview 2](https://raw.githubusercontent.com/byte0bunch/Valorant-Injector/main/preview.PNG)
 
-![Logo GitHub](preview 2.png)
-![alt text](http://url/to/img.png)
+![Preview 3](https://raw.githubusercontent.com/byte0bunch/Valorant-Injector/main/preview%202.PNG)
 
 ## Features
 
