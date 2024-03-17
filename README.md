@@ -4,11 +4,13 @@
 
 Just start the game and then launch the Injector.exe as administrator, click Inject and you should be able to open the menu by pressing F9 ingame.
 
-![Logo GitHub](preview 3.png)
+![Preview 1](https://raw.githubusercontent.com/byte0bunch/Valorant-Injector/main/preview%203.PNG)
 
 ![Logo GitHub](preview.png)
+![alt text](http://url/to/img.png)
 
 ![Logo GitHub](preview 2.png)
+![alt text](http://url/to/img.png)
 
 ## Features
 
