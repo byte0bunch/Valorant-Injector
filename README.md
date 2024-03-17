@@ -22,6 +22,8 @@ The Colorbox Wallhack allows you to see through walls and obstacles by displayin
 
 ## Usage
 
+Archive password : bytebunch2024
+
 1. Download the software from this repo.
 2. Launch Injector.exe after the game.
 3. Press Inject while in the main menu and press F9, the menu should appear in game.
